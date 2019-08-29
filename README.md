@@ -8,7 +8,7 @@ A [trie](https://en.wikipedia.org/wiki/Trie) is a data structure for efficiently
 
    ```yaml
    dependencies:
-     tries:
+     cadmium_trie:
        github: cadmiumcr/trie
    ```
 
